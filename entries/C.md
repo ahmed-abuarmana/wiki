@@ -1,0 +1,1 @@
+A low-level, procedural programming language known for its speed and direct memory access; widely used in systems and embedded development.

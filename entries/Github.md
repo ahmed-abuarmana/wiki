@@ -1,0 +1,1 @@
+A cloud-based platform for hosting and managing Git repositories.

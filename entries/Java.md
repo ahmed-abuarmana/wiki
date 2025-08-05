@@ -1,0 +1,1 @@
+A robust, object-oriented programming language designed for portability, used in web, desktop, and mobile applications

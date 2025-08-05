@@ -1,0 +1,24 @@
+{% extends "encyclopedia/layout.html" %}
+{% load static %}
+
+{% block title %}
+    Encyclopedia
+{% endblock %}
+
+{% block css %}
+    <link href="{% static 'encyclopedia/newPage.css' %}" rel="stylesheet">
+{% endblock %}
+
+
+{% block body %}
+<h1>Edit encyclopedia entry</h1>
+
+{% comment %} action="{% url 'edit_entry' %}" {% endcomment %}
+    <form method="POST">
+        {% csrf_token %}
+        <label>Page title: </label>
+        <input name="title" value="{{ title }}">
+        <Textarea name="content">{{ content }}</Textarea>
+        <button type="submit">Save</button>
+    </form>
+{% endblock %}

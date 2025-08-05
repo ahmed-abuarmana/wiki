@@ -1,0 +1,1 @@
+A high-level, versatile programming language known for its simplicity and readability

@@ -1,0 +1,1 @@
+A version control system that tracks code changes and supports collaboration.

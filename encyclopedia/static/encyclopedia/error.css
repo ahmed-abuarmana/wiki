@@ -1,0 +1,16 @@
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: #c0392b;
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #555;
+}

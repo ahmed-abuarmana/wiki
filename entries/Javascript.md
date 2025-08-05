@@ -1,0 +1,1 @@
+A scripting language that adds interactivity and dynamic behavior to websites.

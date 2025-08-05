@@ -1,0 +1,1 @@
+A lightweight yet powerful code editor with support for many languages and extensions.
